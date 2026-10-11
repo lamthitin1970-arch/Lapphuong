@@ -1,0 +1,6 @@
+{
+  "name": "Bé Vui Đếm Khối Lập Phương - Toán Lớp 2",
+  "description": "Ứng dụng tương tác 3D giúp học sinh lớp 2 luyện tập đếm khối lập phương với chế độ bóc tách tầng, nhìn xuyên thấu X-Ray, chạm đếm và xưởng sáng tạo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
